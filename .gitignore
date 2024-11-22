@@ -1,0 +1,5 @@
+echo "node_modules/" > .gitignore
+git add .
+git commit -m "Primeira versão do jogo de aventura"
+git branch -M main
+git push -u origin main
