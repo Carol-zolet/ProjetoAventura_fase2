@@ -1,0 +1,13 @@
+{
+  "name": "projeto-aventura",
+  "version": "1.0.0",
+  "description": "Jogo de aventura - Projeto Fase 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
